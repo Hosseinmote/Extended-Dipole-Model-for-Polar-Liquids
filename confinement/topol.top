@@ -1,0 +1,6 @@
+#include "dipole_spce.itp"
+[ system ]
+Graphene (HOPG) - water slit channel
+[ molecules ]
+GRA       1080
+SOL       1319
